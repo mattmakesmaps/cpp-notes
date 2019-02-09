@@ -9,6 +9,11 @@ Links, Code Snippets, Etc.
 
 ## Links By Topic
 
+### Threading
+
+- [University of Chicago - Concurrency in C++ 11](https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/labs/lab6/)
+- [University of Chicago - Concurrency in C++ 11 Github Examples](https://github.com/uchicago-cs/cmsc12300/tree/master/examples/cpp/concurrency/simple)
+
 ### Smart Pointers
 
 - [Intro to Smart Pointers](https://en.cppreference.com/book/intro/smart_pointers): 
