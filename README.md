@@ -9,6 +9,10 @@ Links, Code Snippets, Etc.
 
 ## Links By Topic
 
+### CMake
+
+- [Jetbrains CLion - Quick CMake Tutorial](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html)
+
 ### Threading
 
 - [University of Chicago - Concurrency in C++ 11](https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/labs/lab6/)
