@@ -13,6 +13,8 @@ Links, Code Snippets, Etc.
 
 - [University of Chicago - Concurrency in C++ 11](https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/labs/lab6/)
 - [University of Chicago - Concurrency in C++ 11 Github Examples](https://github.com/uchicago-cs/cmsc12300/tree/master/examples/cpp/concurrency/simple)
+- [Lawrence Livermore National Laboratory - POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
+- [Modernes CPP - Condition Variables](http://www.modernescpp.com/index.php/condition-variables)
 
 ### Smart Pointers
 
