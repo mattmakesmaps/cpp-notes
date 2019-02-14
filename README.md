@@ -1,11 +1,40 @@
 # cpp-notes
-Links, Code Snippets, Etc.
+
+A rolling list of C++ keyword definitions and examples that I've
+found to be useful.
 
 ## Links By CPP Keyword
 
 ### Explicit
 
-- https://en.cppreference.com/w/cpp/language/explicit
+> Specifies that a constructor or conversion function (since C++11)
+> is explicit, that is, it cannot be used for implicit conversions 
+> and copy-initialization.
+
+- Well commented example here: https://en.cppreference.com/w/cpp/language/explicit
+
+### Final
+
+> Specifies that a virtual function cannot be overridden in a derived
+> class or that a class cannot be inherited from.
+
+- See: https://en.cppreference.com/w/cpp/language/final
+
+### Override
+
+> Specifies that a virtual function overrides another virtual function.
+
+- See: https://en.cppreference.com/w/cpp/language/override
+
+### Virtual
+
+> A virtual function a member function which is declared within
+> base class and is re-defined (Overriden) by derived class. When you
+> refer to a derived class object using a pointer or a reference to
+> the base class, you can call a virtual function for that object
+> and execute the derived class’s version of the function.
+
+- See: https://www.geeksforgeeks.org/virtual-function-cpp/
 
 ## Links By Topic
 
